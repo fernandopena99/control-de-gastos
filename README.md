@@ -1,5 +1,5 @@
 
-# Sistema control de gastos con REACT - cerdyn v.1.0
+# Sistema control de gastos con REACT
 
 sistema para controlar los gastos personales de forma facil y rapida
 
