@@ -12,7 +12,7 @@ export function HomeTemplate() {
           Bienvenido a Cerdyn <br /> 🐷
         </Title>
         <SubText>
-          Cerdyn nace por las pocas aplicaciones gratis que existen para
+          CDG nace por las pocas aplicaciones gratis que existen para
           controlar gastos e ingresos.
           <br />
           ❤️Está surgiendo como curso para lograr presupuestarlo,
