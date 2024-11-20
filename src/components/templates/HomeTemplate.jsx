@@ -9,7 +9,7 @@ export function HomeTemplate() {
           <Carousel />
         </Box>
         <Title>
-          Bienvenido a Cerdyn <br /> 🐷
+          Bienvenido a CDG <br /> 🐷
         </Title>
         <SubText>
           CDG nace por las pocas aplicaciones gratis que existen para
