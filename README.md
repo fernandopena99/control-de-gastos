@@ -17,3 +17,4 @@ Para inicializarlo solo usa
   npm i
   npm run dev
 ```
+![image](https://github.com/user-attachments/assets/16caf495-d8a9-4e8d-92d6-055287f97fe6)
